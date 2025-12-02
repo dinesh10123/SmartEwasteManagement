@@ -1,0 +1,12 @@
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\dto\UserDto.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\entity\User.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\config\CorsConfig.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\config\SecurityConfig.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\dto\RegisterRequest.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\service\UserService.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\service\AuthService.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\repository\UserRepository.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\SmartEwasteApplication.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\controller\AuthController.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\dto\LoginRequest.java
+C:\Users\malid\Music\SmartEwasteProject\src\main\java\smart_e_waste\smartEwaste\util\JwtUtil.java
